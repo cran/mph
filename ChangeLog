@@ -1,0 +1,42 @@
+
+## mph version 0.6 - S.Gerber - July 01. 2013 ##
+- Combination of the two version into a single algorithm 
+
+## mph version 0.5 - S.Gerber - June 26. 2013 ##
+- Speed up of rips computation
+- Speed up of neighborhood computation
+
+## mph version 0.4 - S.Gerber - June 14. 2013 ##
+- Fixed bug in transfer computation and deaths of classes in suspension in Harer
+version 
+
+## mph version 0.3 - S.Gerber - June 11. 2013 ##
+- Fixed bug in nieghborhood computation
+
+## mph version 0.2 - S.Gerber - June 8. 2013 ##
+- Bug fix for the Harer version
+
+## mph version 0.1 - S.Gerber - May 30. 2013 ##
+- split up package multiscale into mop, mph and gmra
+
+## multiscale version 0.2.2 - S. Gerber - May 26. 2013 ##
+- Added new numerically stable solution propagation scheme for multiscale transport 
+
+## multiscale version 0.2.2 - S. Gerber - May 26. 2013 ##
+- Added new numerically stable solution propagation scheme for multiscale transport 
+
+## multiscale version 0.2.2 - S. Gerber - May 26. 2013 ##
+- Added new numerically stable solution propagation scheme for multiscale transport 
+
+## multiscale version 0.2.1 - S. Gerber - May 18. 2013 ##
+- Fixed some bug in multiscale.rips
+- Fixed Harer version - both version still need some more work and only run
+"approximately" correct...
+
+## multiscale version 0.2 - S. Gerber - May 16. 2013 ##
+- Fixed multiscale rips ghost edge version
+- Added GMRA neighborhhod search
+- Added multicsale transport
+
+## multiscale version 0.1 - S. Gerber - April 30. 2013 ##
+- Inital package 
