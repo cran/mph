@@ -1,5 +1,5 @@
-e08063a4ad616095361f2d424cd4af65 *ChangeLog
-0b6c60d9882e7b231b29573d2af11ee9 *DESCRIPTION
+4b8b201671e01cbc7e79343cbe73adbc *ChangeLog
+39af5fbcfad36babea29230085360755 *DESCRIPTION
 cecc71184143b1055b44dbaa29a99a53 *NAMESPACE
 14f8d975b4e33c3bb2619d22f733f227 *R/multiscale.rips.R
 82f837bc9689d821dad3467aebc0a293 *R/perf.tests.R
@@ -17,7 +17,7 @@ f5c3d75130fa762ca505ffc225f48387 *src/GWT.h
 93f05c3e8bea1ff9020fbc5109ad8ecf *src/GrassmannianNodeSimilarity.h
 6f06e16aefd83f494043332d48d9912b *src/HierarchicalLPDistance.h
 559f18f5b3beb3304b65b73848cb2265 *src/IPCAGWT.h
-9080e8e5b756de43432f20debb4f61c7 *src/IPCATree.h
+2e44b2afe75888b17933082bbd8eb64f *src/IPCATree.h
 26626474a1b00dfb46d28c37ee9d6fb6 *src/IteratedMDSTree.h
 7d29690fd654680658e8f067a419e1df *src/LPDistance.h
 24c330256978c6771f363183b24cca29 *src/LapackDefs.h

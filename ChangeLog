@@ -1,3 +1,8 @@
+## mph version 0.8 - S.Gerber - Jan 14. 2014 ##
+- Fixed solaris compiler complaints (kindly pointed out by Prof. Ripley) 
+
+## mph version 0.7 - S.Gerber - Jan 12. 2014 ##
+- Clean up and fixed for CRAN submission
 
 ## mph version 0.6 - S.Gerber - July 01. 2013 ##
 - Combination of the two version into a single algorithm 

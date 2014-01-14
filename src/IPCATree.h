@@ -95,7 +95,7 @@ class FixedNodeFactory : public NodeFactory<TPrecision>{
       for(unsigned int i=0; i < this->sigma.N(); i++){
         this->sigma(i) = S(i);
       }
-      Linalg<TPrecision>::Scale(this->sigma , 1.0 /  sqrt( X.N() ) , this->sigma );
+      Linalg<TPrecision>::Scale(this->sigma , 1.0 /  sqrt( (TPrecision) X.N() ) , this->sigma );
 
 
       this->sigma2 = DenseVector<TPrecision>( this->phi.N() );
@@ -743,7 +743,7 @@ class IPCATree : public GMRATree<TPrecision>{
         return;
       }
 
-      int size = pow(2, node->phi.N());
+      int size = pow( (double) 2, (int) node->phi.N());
       std::vector< std::vector<int> > children(size);
       DenseVector<TPrecision> tmp(X.M());
       std::vector<int> &nodePts = node->getPoints();
